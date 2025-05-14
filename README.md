@@ -25,13 +25,23 @@ I love building real-world projects, contributing to open source, and learning n
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects with Full Descriptions
 
-| Project | Description |
-|--------|-------------|
-| 💳 [Banking System](https://github.com/Thava7177/BankingSystem-Python-MySQL) | Command-line banking app using Python and MySQL for secure transactions. |
-| 🛒 [E-Commerce Website](https://github.com/Thava7177/E-Commerce-Django) | A responsive online store built with Django framework. |
-| 🎮 [Gamers Blog Community](https://github.com/Thava7177/Gamers-Community) | A static community site for gamers with suggestion features. |
+### 💳 Banking System (Python + MySQL)
+A command-line based application that simulates a real-world banking system. Users can create accounts, deposit, withdraw, and check balances. Admins can manage all customer records. It uses Python for logic and MySQL for backend storage.  
+🔗 [GitHub Repo](https://github.com/Thava7177/BankingSystem-Python-MySQL)
+
+### 🛒 E-Commerce Website (Django Framework)
+An online store developed using Django. It includes product listing, user registration/login, shopping cart, and checkout functionality. Focused on usability and backend database integration using Django ORM and MySQL.  
+🔗 [GitHub Repo](https://github.com/Thava7177/E-Commerce-Django)
+
+### 🎮 Gaming Blog Website (HTML, CSS, Bootstrap)
+A stylish static website for the gaming community where users can explore blog posts, share feedback, and get game suggestions. Designed with responsive UI using Bootstrap and structured using HTML/CSS.  
+🔗 [GitHub Repo](https://github.com/Thava7177/Gamers-Community)
+
+### 🌾 Farmer’s Product Market Website
+A simple web platform designed for farmers to list and sell their organic products online. Features include product descriptions, storage guidelines, and easy contact options. Built with HTML, CSS, and Bootstrap to ensure accessibility for rural users.  
+🔗 [GitHub Repo](https://github.com/Thava7177/Farmers-Product-Website) *(Example link, change if needed)*
 
 ---
 
@@ -54,10 +64,12 @@ I love building real-world projects, contributing to open source, and learning n
 
 ---
 
-## 🧠 Education
+## 🎓 Education
 
-- 🎓 **M.Sc Computer Science** – KG College of Arts and Science (2023–2025)  
-- 🎓 **B.Sc Computer Science** – The Maruthupandiyar Institutions (2020–2023)
+- 👨‍🎓 **M.Sc Computer Science** – KG College of Arts and Science, Coimbatore *(2023–2025)*  
+- 👨‍🎓 **B.Sc Computer Science** – The Maruthupandiyar Institutions, Thanjavur *(2020–2023)*  
+- 🎓 **HSC** – Government Higher Secondary School, Paravakkottai *(2019–2020)*  
+- 🎓 **SSLC** – Government High School, Paravakkottai *(2017–2018)*
 
 ---
 
